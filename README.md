@@ -1,3 +1,4 @@
+- Consegna 1:
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 -sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
 -ogni Dipartimento offre più Corsi di Laurea (es.: Civiltà e Letterature Classiche, Informatica, Ingegneria Elettronica ecc..)
@@ -11,3 +12,11 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 
 Utilizzare https://www.drawio.com/  o un altro tool per la creazione dello schema.
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
+
+- Consegna 2:
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
+Cosa consegnare?
+Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+-Consegna 3:
+Utilizzando lo stesso database di ieri, eseguite le query in allegato. Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
